@@ -1,0 +1,20 @@
+{
+  "name": "everyproxy-plugin",
+  "interface": {
+    "displayName": "Everyproxy Plugin"
+  },
+  "plugins": [
+    {
+      "name": "everyproxy",
+      "source": {
+        "source": "local",
+        "path": "./plugins/everyproxy"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "everyproxy-plugin",
+  "owner": {
+    "name": "EveryInfra",
+    "url": "https://everyinfra.com"
+  },
+  "plugins": [
+    {
+      "name": "everyproxy",
+      "source": "./plugins/everyproxy",
+      "description": "EveryProxy traffic-billed proxy skill for Codex and Claude Code. Inspect REST packages, manage order status and control approved one-time credential delivery.",
+      "version": "0.1.0"
+    }
+  ],
+  "description": "EveryProxy traffic-billed proxy skill for Codex and Claude Code. Inspect REST packages, manage order status and control approved one-time credential delivery."
+}

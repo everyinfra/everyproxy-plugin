@@ -1,0 +1,26 @@
+{
+  "name": "everyproxy",
+  "version": "0.1.0",
+  "description": "EveryProxy traffic-billed proxy skill for Codex and Claude Code. Inspect REST packages, manage order status and control approved one-time credential delivery.",
+  "author": {
+    "name": "EveryInfra",
+    "url": "https://everyinfra.com"
+  },
+  "homepage": "https://api.everyinfra.com/docs",
+  "repository": "https://github.com/everyinfra/everyproxy-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "everyinfra",
+    "agent-plugin",
+    "proxy-api",
+    "traffic-billing",
+    "proxy-management",
+    "agent-skill",
+    "rest-api",
+    "codex",
+    "claude-code",
+    "agent-skills"
+  ],
+  "displayName": "EveryProxy",
+  "skills": "./skills/"
+}

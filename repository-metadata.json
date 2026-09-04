@@ -1,0 +1,34 @@
+{
+  "repository": "everyinfra/everyproxy-plugin",
+  "visibility": "public",
+  "publicationStatus": "authorized-initial-publication",
+  "plugin": "everyproxy",
+  "skill": "everyproxy",
+  "displayName": "EveryProxy",
+  "description": "EveryProxy traffic-billed proxy skill for Codex and Claude Code. Inspect REST packages, manage order status and control approved one-time credential delivery.",
+  "homepage": "https://everyinfra.com",
+  "topics": [
+    "everyinfra",
+    "agent-plugin",
+    "proxy-api",
+    "traffic-billing",
+    "proxy-management",
+    "agent-skill",
+    "rest-api",
+    "codex",
+    "claude-code",
+    "agent-skills"
+  ],
+  "searchIntent": "Traffic-billed proxy ordering and credential delivery API",
+  "readmeTitle": "EveryProxy — Traffic-billed proxy ordering with controlled credential delivery",
+  "keywordResearch": "Qualitative intent mapping; no search volume, difficulty or ranking estimates.",
+  "transport": "rest",
+  "version": "0.1.0",
+  "source": {
+    "repository": "everyinfra/everyinfra-agent-plugins",
+    "commit": "78d3fd694244529e5062c51006fc10ef0de9dc87",
+    "path": "plugins/everyinfra/skills/everyproxy/SKILL.md",
+    "sha256": "a94adedf0cebfdbdef115c9da847d10340c3a562735014d1167c1f30eb1e5573"
+  },
+  "definition": "EveryProxy is a standalone EveryInfra agent skill for traffic-billed proxy ordering through REST. It separates package selection, order-status checks and approved credential delivery, with one-time passwords kept out of shared logs."
+}
