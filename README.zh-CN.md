@@ -1,5 +1,8 @@
 # EveryProxy：流量代理订购与凭据交付
 
+<!-- rq223-banner -->
+<p align="center"><img alt="EveryProxy：按流量订购代理，凭据受控交付" src="assets/banner-zh.jpg" width="100%"></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">

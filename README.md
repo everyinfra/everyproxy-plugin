@@ -1,5 +1,8 @@
 # EveryProxy — Traffic-billed proxy ordering with controlled credential delivery
 
+<!-- rq223-banner -->
+<p align="center"><img alt="EveryProxy — Traffic-billed proxy ordering with controlled credential delivery" src="assets/banner-en.jpg" width="100%"></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">

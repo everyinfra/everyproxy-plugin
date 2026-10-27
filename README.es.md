@@ -1,5 +1,8 @@
 # EveryProxy — Pedidos de proxy por tráfico con entrega controlada de credenciales
 
+<!-- rq223-banner -->
+<p align="center"><img alt="EveryProxy — Pedidos de proxy por tráfico con entrega controlada de credenciales" src="assets/banner-es.jpg" width="100%"></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
